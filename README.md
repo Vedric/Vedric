@@ -1,6 +1,6 @@
 ## Hey, I'm Védric Loic 👋
 
-🚀 Senior Platform & Containerization Engineer | 7+ years in critical environments
+🚀 Senior Cloud, DevOps & Platform Engineer | AWS | GCP | Azure | HashiCorp | Kubernetes & Linux Certified ♾️ | 8+ years in critical environments
 <br>☁️ Multi-cloud expert (AWS | Azure | GCP) — AWS Solutions Architect certified
 <br>⚙️ Kubernetes specialist (CKA/CKAD) | Terraform enthusiast (HashiCorp certified)
 <br>🧬 DevOps for bioinformatics — containerizing genomic analysis tools
